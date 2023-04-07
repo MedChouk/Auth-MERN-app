@@ -11,3 +11,5 @@ yarn start
 npm install or yarn 
 
 yarn dev 
+
+go to http://localhost:3000/register 
